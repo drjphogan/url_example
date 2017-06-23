@@ -22,7 +22,7 @@ def print_items(items):
 def main(url):
     # comment to test push
     # another comment to test push
-    # another comment to test push
+    # another comment to test push 3
     words = fetch_words(url)
     print_items(words)
 

@@ -23,7 +23,6 @@ def main(url):
     # comment to test push
     # another comment to test push
     # another commnet to test push
-    # another commnet to test push
     words = fetch_words(url)
     print_items(words)
 
